@@ -1,0 +1,35 @@
+.formControl {
+  width: 75%;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputContainer{
+  width: 50%;
+  justify-content: stretch;
+}
+
+.rankTitle{
+  padding-top: 10px;
+}
+
+.rank {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.input{
+  width: 100%;
+}
+
+.card {
+  margin: 1% !important;
+}
+@media only screen and (max-width: 600px) {
+  .card {
+    margin: 1% !important;
+  }
+}
